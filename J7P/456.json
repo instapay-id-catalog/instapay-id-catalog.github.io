@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "name": "Product 1",
+            "name": "Product 1999",
             "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
             "amount": 50000,
             "discount": 29,
@@ -9,7 +9,7 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
         },
         {
-            "name": "Product 2",
+            "name": "Product 2222",
             "description": "Lorem ipsum Testing Lorem ipsum Lorem ipsum Lorem ipsum",
             "amount": 30000,
             "discount": 19,
@@ -17,5 +17,5 @@
             "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448"
         }
     ],
-    "customer_paying_fee": true
+    "customer_paying_fee": false
 }

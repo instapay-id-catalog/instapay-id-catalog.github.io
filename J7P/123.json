@@ -1,19 +1,27 @@
 {
     "data": [
         {
-            "name": "Product 1",
+            "name": "Product 123",
             "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-            "amount": 50000,
+            "amount": 25000,
             "discount": 29,
             "normal_amount": 100000,
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
         },
         {
-            "name": "Product 2",
+            "name": "Product 234",
             "description": "Lorem ipsum Testing Lorem ipsum Lorem ipsum Lorem ipsum",
-            "amount": 30000,
+            "amount": 40000,
             "discount": 19,
-            "normal_amount": 90000,
+            "normal_amount": 80000,
+            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448"
+        },
+        {
+            "name": "Product 456",
+            "description": "Lorem ipsum Testing Lorem ipsum Lorem ipsum Lorem ipsum",
+            "amount": 10000,
+            "discount": 19,
+            "normal_amount": 40000,
             "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448"
         }
     ],
