@@ -14,5 +14,13 @@
     {
         "name": "Catalog Demo",
         "id": 123
+    },
+    {
+        "name": "Catalog Demo 2",
+        "id": 12345
+    },
+    {
+        "name": "Catalog Demo 3",
+        "id": 1234
     }
 ]
