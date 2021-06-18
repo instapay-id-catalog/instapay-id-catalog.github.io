@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "Dress",
+            "description": "Beautiful woman dress",
+            "amount": 900000,
+            "discount": 10,
+            "normal_amount": 1000000,
+            "image": "https://image.freepik.com/free-photo/fashion-woman-with-clothes_1203-7413.jpg"
+        },
+        {
+            "name": "Straw Hat",
+            "description": "Straw hat for man",
+            "amount": 240000,
+            "discount": 20,
+            "normal_amount": 300000,
+            "image": "https://image.freepik.com/free-photo/straw-hat-man_1203-7257.jpg"
+        }
+    ],
+    "customer_paying_fee": false,
+    "expired": "2021-06-30 22:00:00"
+}

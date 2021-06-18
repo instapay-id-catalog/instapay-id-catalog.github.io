@@ -1,22 +1,22 @@
 {
     "data": [
         {
-            "name": "Product 1",
-            "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-            "amount": 50000,
-            "discount": 29,
-            "normal_amount": 100000,
-            "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+            "name": "Hand Bag",
+            "description": "Beautiful elegance and luxury fashion pink women handbag",
+            "amount": 1800000,
+            "discount": 10,
+            "normal_amount": 2000000,
+            "image": "https://image.freepik.com/free-photo/beautiful-elegance-luxury-fashion-pink-women-handbag_1203-7653.jpg"
         },
         {
-            "name": "Product 2",
-            "description": "Lorem ipsum Testing Lorem ipsum Lorem ipsum Lorem ipsum",
-            "amount": 30000,
-            "discount": 19,
-            "normal_amount": 90000,
-            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448"
+            "name": "School Bag",
+            "description": "Blue schoolchild backpack on table",
+            "amount": 850000,
+            "discount": 15,
+            "normal_amount": 1000000,
+            "image": "https://image.freepik.com/free-photo/blue-schoolchild-backpack-table_23-2148204808.jpg"
         }
     ],
     "customer_paying_fee": true,
-    "expired": "2021-06-20 21:00:00"
+    "expired": "2021-08-20 21:00:00"
 }

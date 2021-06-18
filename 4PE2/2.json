@@ -1,22 +1,22 @@
 {
     "data": [
         {
-            "name": "Product 1",
-            "description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-            "amount": 50000,
-            "discount": 29,
-            "normal_amount": 100000,
-            "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+            "name": "T-Shirt",
+            "description": "Black t-shirt front isolated",
+            "amount": 285000,
+            "discount": 5,
+            "normal_amount": 300000,
+            "image": "https://img.freepik.com/free-photo/black-t-shirt-front-isolated_125540-808.jpg?size=338&ext=jpg"
         },
         {
-            "name": "Product 2",
-            "description": "Lorem ipsum Testing Lorem ipsum Lorem ipsum Lorem ipsum",
-            "amount": 30000,
-            "discount": 19,
-            "normal_amount": 90000,
-            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448"
+            "name": "Hoodie",
+            "description": "Black hoodie back isolated",
+            "amount": 450000,
+            "discount": 10,
+            "normal_amount": 500000,
+            "image": "https://image.freepik.com/free-photo/black-hoodie-back-isolated_125540-839.jpg"
         }
     ],
     "customer_paying_fee": false,
-    "expired": "2021-06-20 21:00:00"
+    "expired": "2021-07-20 21:00:00"
 }
