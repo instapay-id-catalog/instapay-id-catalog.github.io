@@ -1,11 +1,15 @@
 [
     {
-        "name": "Catalog Flash Sale 1",
+        "name": "Lagi Trending, Nih",
         "id": 1
     },
     {
-        "name": "Catalog Flash Sale 2",
+        "name": "Ada yang Baru, Nih",
         "id": 2
+    },
+    {
+        "name": "Promo Bulan Ini",
+        "id": 3
     },
     {
         "name": "Catalog Demo",
