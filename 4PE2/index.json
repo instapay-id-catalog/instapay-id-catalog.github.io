@@ -6,5 +6,9 @@
     {
         "name": "Catalog Flash Sale 2",
         "id": 2
+    },
+    {
+        "name": "Catalog Demo",
+        "id": 123
     }
 ]
