@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "T-Shirt",
+            "description": "Black t-shirt front isolated",
+            "amount": 285000,
+            "discount": 5,
+            "normal_amount": 300000,
+            "image": "https://img.freepik.com/free-photo/black-t-shirt-front-isolated_125540-808.jpg?size=338&ext=jpg"
+        },
+        {
+            "name": "Hoodie",
+            "description": "Black hoodie back isolated",
+            "amount": 450000,
+            "discount": 10,
+            "normal_amount": 500000,
+            "image": "https://image.freepik.com/free-photo/black-hoodie-back-isolated_125540-839.jpg"
+        }
+    ],
+    "customer_paying_fee": false,
+    "expired": "2021-07-20 21:00:00"
+}
