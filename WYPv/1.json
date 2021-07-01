@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "1 Bedroom Private Pool Villa + BF",
+            "description": "1 Bedroom Private Pool Villa + BF",
+            "amount": 450000,
+            "discount": 59,
+            "normal_amount": 1100000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625113397/WYPv_01_z30ncl.jpg"
+        },
+        {
+            "name": "2 Bedroom Private Pool Villa + BF",
+            "description": "2 Bedroom Private Pool Villa + BF",
+            "amount": 750000,
+            "discount": 53,
+            "normal_amount": 1600000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625113397/WYPv_02_exntsv.jpg"
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "2021-09-15 23:00:00"
+}
