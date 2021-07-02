@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "Jasa website",
+            "description": "Jasa website",
+            "amount": 1500000,
+            "discount": 50,
+            "normal_amount": 3000000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625233395/6Ged_01_fc0pj7.jpg"
+        },
+        {
+            "name": "Digital Marketing 1",
+            "description": "Digital Marketing 1",
+            "amount": 500000,
+            "discount": 50,
+            "normal_amount": 1000000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625233395/6Ged_01_fc0pj7.jpg"
+        }
+    ],
+    "customer_paying_fee": false,
+    "expired": "2021-09-02 23:00:00"
+}
