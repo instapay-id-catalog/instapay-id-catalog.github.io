@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "Apple Jade",
+            "description": "Apple Jade",
+            "amount": 50000,
+            "discount": 29,
+            "normal_amount": 70000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625730096/7BJ7_01_jswqnp.jpg"
+        },
+        {
+            "name": "Amazonite",
+            "description": "Amazonite",
+            "amount": 50000,
+            "discount": 29,
+            "normal_amount": 70000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625730096/7BJ7_02_swpo3e.jpg"
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "2021-08-08 23:00:00"
+}
