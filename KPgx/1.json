@@ -6,7 +6,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/13004f1b-62af-422e-8142-222680ccc659"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711569/KPgx-01_dsgnwm.jpg"
         },
         {
             "name": "Tarator",
@@ -14,7 +14,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/e5453d17-14b1-4a52-9933-755bad96f527"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711570/KPgx-2_mpof1p.jpg"
         },
         {
             "name": "Acuka",
@@ -22,7 +22,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/3ba7e8c8-b84e-4aab-bed2-184a19cc9429"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711570/KPgx-3_oz4cad.jpg"
         },
         {
             "name": "Ayran Mint",
@@ -30,7 +30,7 @@
             "amount": 25000,
             "discount": 0,
             "normal_amount": 25000,
-            "image": "blob:https://web.whatsapp.com/1595914e-c0f4-49d3-a9a3-f38fe80304b4"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711569/KPgx-4_mcpdgn.jpg"
         },
         {
             "name": "Ayran Original",
@@ -38,7 +38,7 @@
             "amount": 25000,
             "discount": 0,
             "normal_amount": 25000,
-            "image": "blob:https://web.whatsapp.com/8e9c70d7-bce7-4f8a-99f4-aa3a3aa67ed3"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711570/KPgx-5_tj9eja.jpg"
         },
         {
             "name": "Lentil Mantil",
@@ -46,7 +46,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/ce1957a8-3814-4e67-8f85-d5b40414119f"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711570/KPgx-6_kw3a1x.jpg"
         },
         {
             "name": "Falafel in Hummus",
@@ -54,7 +54,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/0c18b87f-a9ba-4635-861a-cddfafa5fcf0"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711570/KPgx-7_rpehbx.jpg"
         },
         {
             "name": "Pide Spinach",
@@ -62,7 +62,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 55000,
-            "image": "blob:https://web.whatsapp.com/889e65da-97f8-4892-8473-4ba27e3ddf1c"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711572/KPgx-8_gzdisw.jpg"
         },
         {
             "name": "Cottage Cheese",
@@ -70,7 +70,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 55000,
-            "image": "blob:https://web.whatsapp.com/44d9e7d6-7608-4a57-b44c-ad369779d513"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711572/KPgx-9_q4ht4g.jpg"
         },
         {
             "name": "Marinate Feta",
@@ -78,7 +78,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 55000,
-            "image": "blob:https://web.whatsapp.com/3d793b82-4229-4088-9186-3b9b2aaf6d7e"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711572/KPgx-11_bnn9ds.jpg"
         },
         {
             "name": "Börek Spinach",
@@ -86,7 +86,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/4d26bd23-232c-49c0-8dfd-baa2a9922df1"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711576/KPgx-10_yrskuj.jpg"
         },
         {
             "name": "Börek Feta",
@@ -94,7 +94,7 @@
             "amount": 45000,
             "discount": 0,
             "normal_amount": 45000,
-            "image": "blob:https://web.whatsapp.com/d6f75640-ebd9-4461-9f2f-e690a72b8468"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711572/KPgx-12_reuaxx.jpg"
         },
         {
             "name": "Green Bean in Olive Oil",
@@ -102,7 +102,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/89a10533-d5ae-4cb8-adb6-883e0ebb0099"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711573/KPgx-13_tf0bxv.jpg"
         },
         {
             "name": "Cabbage Rolls",
@@ -110,7 +110,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/9b1463e4-77bd-4599-9d9b-6b9744e42243"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711572/KPgx-14_pkg49x.jpg"
         },
         {
             "name": "Dolma",
@@ -118,7 +118,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/2c7d993c-93c3-4805-a75c-73c5f61fda5b"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711575/KPgx-15_exp1j4.jpg"
         },
         {
             "name": "Barlotti in Olive Oil",
@@ -126,7 +126,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/0c967960-321f-4b3b-a1f7-dc50392258e7"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711576/KPgx-16_v6j7qr.jpg"
         },
         {
             "name": "Lentil Balls",
@@ -134,7 +134,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/d51da089-89ac-40f4-838f-92674f4d3d02"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711574/KPgx-17_acihq2.jpg"
         },
         {
             "name": "BakLava",
@@ -142,7 +142,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/fae5344a-0974-4034-8542-affc6b60c2dd"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711574/KPgx-18_uolotq.jpg"
         },
         {
             "name": "Adjaruli Khachapuri",
@@ -150,7 +150,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 55000,
-            "image": "blob:https://web.whatsapp.com/a036f0bf-2e2f-491a-9fbf-484fc08456cf"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711575/KPgx-19_qbt7td.jpg"
         },
         {
             "name": "Pide Mediterranean",
@@ -158,7 +158,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 55000,
-            "image": "blob:https://web.whatsapp.com/a02e529c-979b-406c-833e-683ea3a724c1"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711577/KPgx-21_dzzqdl.jpg"
         },
         {
             "name": "Pide Mozzarella",
@@ -166,7 +166,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 55000,
-            "image": "blob:https://web.whatsapp.com/61822c67-71bf-4bb2-a1c4-71b60fcf24d7"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711577/KPgx-21_dzzqdl.jpg"
         },
         {
             "name": "Tzatziki Jar",
@@ -174,7 +174,7 @@
             "amount": 35000,
             "discount": 0,
             "normal_amount": 35000,
-            "image": "blob:https://web.whatsapp.com/69e78d61-06a6-4a6e-b9bc-9e3a15a46c8c"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626711577/KPgx-22_otdabp.jpg"
         }
     ],
     "customer_paying_fee": true,
