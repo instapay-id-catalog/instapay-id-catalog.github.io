@@ -177,6 +177,6 @@
             "image": "blob:https://web.whatsapp.com/69e78d61-06a6-4a6e-b9bc-9e3a15a46c8c"
         }
     ],
-    "customer_paying_fee": ,
+    "customer_paying_fee": true,
     "expired": ""
 }
