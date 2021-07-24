@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "name": "Kopi Sahabat Istimewa ( Kopi Susu Gula Aren )",
+            "description": "Kopi Sahabat Istimewa ( Kopi Susu Gula Aren )",
+            "amount": 70550,
+            "discount": 17,
+            "normal_amount": 85000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111128/N2ND-01_xdiofp.jpg"
+        },
+        {
+            "name": "Kesukaan Eneng ( Red Velvet )",
+            "description": "Kesukaan Eneng ( Red Velvet )",
+            "amount": 70550,
+            "discount": 17,
+            "normal_amount": 85000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-02_mp79gd.jpg"
+        },
+        {
+            "name": "Sahabat Tarohan ( Taro )",
+            "description": "Sahabat Tarohan ( Taro )",
+            "amount": 70550,
+            "discount": 17,
+            "normal_amount": 85000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-03_l1niwh.jpg"
+        },
+        {
+            "name": "Americano ( Kopi Hitam )",
+            "description": "Americano ( Kopi Hitam )",
+            "amount": 25000,
+            "discount": 17,
+            "normal_amount": 25000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-04_ag7kxm.jpg"
+        },
+        {
+            "name": "Kopi Susu Rasa Berdua ( Avocado Coffee )",
+            "description": "Kopi Susu Rasa Berdua ( Avocado Coffee )",
+            "amount": 70550,
+            "discount": 17,
+            "normal_amount": 85000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-05_mjrjgh.jpg"
+        },
+        {
+            "name": "Kesukaan Abang ( Chocolate )",
+            "description": "Kesukaan Abang ( Chocolate )",
+            "amount": 70550,
+            "discount": 17,
+            "normal_amount": 85000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-06_iykchs.jpg"
+        },
+        {
+            "name": "Teh Bersaudara ( Green Tea Latte )",
+            "description": "Teh Bersaudara ( Green Tea Latte )",
+            "amount": 70550,
+            "discount": 17,
+            "normal_amount": 85000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-07_sh7c3h.jpg"
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "2021-08-31 23:59:59"
+}
