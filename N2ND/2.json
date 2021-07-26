@@ -27,17 +27,17 @@
         {
             "name": "Americano ( Kopi Hitam )",
             "description": "Americano ( Kopi Hitam )",
-            "amount": 66400,
+            "amount": 53950,
             "discount": 17,
-            "normal_amount": 80000,
+            "normal_amount": 65000,
             "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-04_ag7kxm.jpg"
         },
         {
             "name": "Kopi Susu Rasa Berdua ( Avocado Coffee )",
             "description": "Kopi Susu Rasa Berdua ( Avocado Coffee )",
-            "amount": 53950,
+            "amount": 66400,
             "discount": 17,
-            "normal_amount": 65000,
+            "normal_amount": 80000,
             "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1627111127/N2ND-05_mjrjgh.jpg"
         },
         {
