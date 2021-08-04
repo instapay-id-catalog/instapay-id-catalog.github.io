@@ -6,7 +6,8 @@
             "amount": 55000,
             "discount": 15,
             "normal_amount": 65000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg",
+            "weight": 250
         },
         {
             "name": "Kastangel 250gr",
@@ -14,7 +15,8 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg",
+            "weight": 250
         },
         {
             "name": "Sagu Keju 250gr",
@@ -22,7 +24,8 @@
             "amount": 50000,
             "discount": 17,
             "normal_amount": 60000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg",
+            "weight": 250
         },
         {
             "name": "Coffee Cookies 250gr",
@@ -30,7 +33,8 @@
             "amount": 40000,
             "discount": 20,
             "normal_amount": 50000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_05_zu4rsm.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_05_zu4rsm.jpg",
+            "weight": 250
         },
         {
             "name": "Nastar 350gr",
@@ -38,7 +42,8 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg",
+            "weight": 350
         },
         {
             "name": "Kastangel 350gr",
@@ -46,7 +51,8 @@
             "amount": 80000,
             "discount": 11,
             "normal_amount": 90000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg",
+            "weight":350
         },
         {
             "name": "Sagu Keju 350gr",
@@ -54,7 +60,8 @@
             "amount": 60000,
             "discount": 14,
             "normal_amount": 70000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg",
+            "weight":350
         },
         {
             "name": "Putri Salju 350gr",
@@ -62,7 +69,8 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_03_iy3rr6.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_03_iy3rr6.jpg",
+            "weight":350
         },
         {
             "name": "Nastar 500gr",
@@ -70,7 +78,8 @@
             "amount": 99000,
             "discount": 10,
             "normal_amount": 110000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg",
+            "weight":500
         },
         {
             "name": "Kastangel 500gr",
@@ -78,7 +87,8 @@
             "amount": 119000,
             "discount": 8,
             "normal_amount": 130000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg",
+            "weight":500
         },
         {
             "name": "Sagu Keju 500gr",
@@ -86,7 +96,8 @@
             "amount": 89000,
             "discount": 11,
             "normal_amount": 100000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg",
+            "weight":500
         },
         {
             "name": "Putri Salju 500gr",
@@ -94,7 +105,8 @@
             "amount": 89000,
             "discount": 11,
             "normal_amount": 100000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_03_iy3rr6.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_03_iy3rr6.jpg",
+            "weight":500
         },
         {
             "name": "Tiramisu in Jar (Kahlua)",
@@ -102,7 +114,8 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg",
+            "weight":500
         },
         {
             "name": "Tiramisu in Jar (Rum)",
@@ -110,7 +123,8 @@
             "amount": 55000,
             "discount": 15,
             "normal_amount": 65000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg",
+            "weight":500
         },
         {
             "name": "Tiramisu in Jar (Original)",
@@ -118,7 +132,8 @@
             "amount": 50000,
             "discount": 17,
             "normal_amount": 60000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg",
+            "weight":500
         },
         {
             "name": "Roti Isi Daging",
@@ -126,7 +141,8 @@
             "amount": 20000,
             "discount": 33,
             "normal_amount": 30000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803437/x01E_08_ivblww.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803437/x01E_08_ivblww.jpg",
+            "weight":100
         },
         {
             "name": "Cupcakes",
@@ -134,7 +150,8 @@
             "amount": 25000,
             "discount": 29,
             "normal_amount": 35000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803436/x01E_09_c0rron.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803436/x01E_09_c0rron.jpg",
+            "weight":100
         },
         {
             "name": "Classic Brownies",
@@ -142,7 +159,8 @@
             "amount": 135000,
             "discount": 7,
             "normal_amount": 145000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803435/x01E_06_mtnbxz.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803435/x01E_06_mtnbxz.jpg",
+            "weight":250
         },
         {
             "name": "Donat Kampoeng x6",
@@ -150,9 +168,11 @@
             "amount": 48000,
             "discount": 11,
             "normal_amount": 54000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803443/x01E_07_uwsmek.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803443/x01E_07_uwsmek.jpg",
+            "weight":250
         }
     ],
     "customer_paying_fee": true,
-    "expired": "2021-09-09 23:00:00"
+    "expired": "2021-09-09 23:00:00",
+    "origin": "260"
 }

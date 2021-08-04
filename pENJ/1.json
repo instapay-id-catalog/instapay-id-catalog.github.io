@@ -6,7 +6,8 @@
             "amount": 425000,
             "discount": 6,
             "normal_amount": 450000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626665935/pENJ-1_rvxtad.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626665935/pENJ-1_rvxtad.jpg",
+            "weight": 600
         },
         {
             "name": "Mukena Potongan Katun Lukis (Biru)",
@@ -14,7 +15,8 @@
             "amount": 425000,
             "discount": 6,
             "normal_amount": 450000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626665936/pENJ-2_ev3wfo.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626665936/pENJ-2_ev3wfo.jpg",
+            "weight":600
         },
         {
             "name": "Mukena Terusan Katun Lukis (Maroon)",
@@ -22,7 +24,8 @@
             "amount": 425000,
             "discount": 6,
             "normal_amount": 450000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666577/pENJ-3_pj1vic.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666577/pENJ-3_pj1vic.jpg",
+            "weight":600
         },
         {
             "name": "Mukena Terusan Katun Lukis (Biru)",
@@ -30,7 +33,8 @@
             "amount": 425000,
             "discount": 6,
             "normal_amount": 450000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666577/pENJ-4_gesulg.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666577/pENJ-4_gesulg.jpg",
+            "weight":600
         },
         {
             "name": "Mukena Terusan Katun Lukis (Pink)",
@@ -38,7 +42,8 @@
             "amount": 425000,
             "discount": 6,
             "normal_amount": 450000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666578/pENJ-5_q4vjjm.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666578/pENJ-5_q4vjjm.jpg",
+            "weight":600
         },
         {
             "name": "Dress Kaptan Katun Lukis (Coklat)",
@@ -46,7 +51,8 @@
             "amount": 200000,
             "discount": 20,
             "normal_amount": 250000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666820/pENJ-7_csaldm.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666820/pENJ-7_csaldm.jpg",
+            "weight":300
         },
         {
             "name": "Dress Kaptan Katun Lukis (Pink)",
@@ -54,7 +60,8 @@
             "amount": 200000,
             "discount": 20,
             "normal_amount": 250000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666818/pENJ-6_hkxyxy.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666818/pENJ-6_hkxyxy.jpg",
+            "weight":300
         },
         {
             "name": "Dress Kaptan Katun Lukis (Peach)",
@@ -62,7 +69,8 @@
             "amount": 200000,
             "discount": 20,
             "normal_amount": 250000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666832/pENJ-8_cnf3ni.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666832/pENJ-8_cnf3ni.jpg",
+            "weight":300
         },
         {
             "name": "Masker Katun Lukis",
@@ -70,7 +78,8 @@
             "amount": 25000,
             "discount": 17,
             "normal_amount": 30000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666984/pENJ-9_as4sjn.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626666984/pENJ-9_as4sjn.jpg",
+            "weight":100
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Pink)",
@@ -78,7 +87,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667710/pENJ-10_rxi6s6.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667710/pENJ-10_rxi6s6.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Abu Tua)",
@@ -86,7 +96,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667709/pENJ-11_o6yzu5.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667709/pENJ-11_o6yzu5.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Biru)",
@@ -94,7 +105,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667710/pENJ-13_tr4wgf.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667710/pENJ-13_tr4wgf.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Magenta)",
@@ -102,7 +114,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667709/pENJ-12_y1xx53.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667709/pENJ-12_y1xx53.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Hijau)",
@@ -110,7 +123,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667712/pENJ-15_u8srwn.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667712/pENJ-15_u8srwn.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Maroon)",
@@ -118,7 +132,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667710/pENJ-14_z1lxp7.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667710/pENJ-14_z1lxp7.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Biru Doff)",
@@ -126,7 +141,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667712/pENJ-16_hzcg3l.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667712/pENJ-16_hzcg3l.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Abu)",
@@ -134,7 +150,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667715/pENJ-19_tvjtpm.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667715/pENJ-19_tvjtpm.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Cream)",
@@ -142,7 +159,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667712/pENJ-17_pesxzv.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667712/pENJ-17_pesxzv.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Beige)",
@@ -150,7 +168,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667714/pENJ-18_fftycw.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667714/pENJ-18_fftycw.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Kuning)",
@@ -158,7 +177,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667713/pENJ-21_c55ctz.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667713/pENJ-21_c55ctz.jpg",
+            "weight":200
         },
         {
             "name": "Kerudung Segi Empat Lukis Plus Masker Head Lop (Putih)",
@@ -166,7 +186,8 @@
             "amount": 125000,
             "discount": 17,
             "normal_amount": 150000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667713/pENJ-20_fwuikk.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626667713/pENJ-20_fwuikk.jpg",
+            "weight":200
         },
         {
             "name": "1 Set Sarung Bantal Kursi Tamu ( 5 Sarung Bantal + 1 Taplak Meja )",
@@ -174,7 +195,8 @@
             "amount": 500000,
             "discount": 9,
             "normal_amount": 550000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668058/pENJ-22_gdyd7a.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668058/pENJ-22_gdyd7a.jpg",
+            "weight":500
         },
         {
             "name": "Blouse Katun Lukis (Hitam)",
@@ -182,7 +204,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-23_yffdvl.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-23_yffdvl.jpg",
+            "weight":300
         },
         {
             "name": "Blouse Katun Lukis (Merah)",
@@ -190,7 +213,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-25_a8vqk5.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-25_a8vqk5.jpg",
+            "weight":300
         },
         {
             "name": "Blouse Katun Lukis (Pink)",
@@ -198,7 +222,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-24_muvqxt.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-24_muvqxt.jpg",
+            "weight":300
         },
         {
             "name": "Blouse Katun Lukis (Kuning)",
@@ -206,7 +231,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-27_t7soma.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-27_t7soma.jpg",
+            "weight":300
         },
         {
             "name": "Blouse Katun Lukis (Orange)",
@@ -214,7 +240,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-26_k0kztb.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-26_k0kztb.jpg",
+            "weight":300
         },
         {
             "name": "Blouse Katun Lukis (Putih)",
@@ -222,7 +249,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-28_s4qylj.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668368/pENJ-28_s4qylj.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Shanghai Katun Lukis (Orange)",
@@ -230,7 +258,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668565/pENJ-29_tldlt4.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668565/pENJ-29_tldlt4.jpg",
+            "weight": 300
         },
         {
             "name": "Tunik Krah Shanghai Katun Lukis (Putih)",
@@ -238,7 +267,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668563/pENJ-31_pbdsoo.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668563/pENJ-31_pbdsoo.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Shanghai Katun Lukis (Hijau)",
@@ -246,7 +276,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668565/pENJ-30_a39dfj.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626668565/pENJ-30_a39dfj.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Kemeja Katun Lukis (Kuning)",
@@ -254,7 +285,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669083/pENJ-34_ogxcct.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669083/pENJ-34_ogxcct.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Kemeja Katun Lukis (Ungu)",
@@ -262,7 +294,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-32_afrvx2.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-32_afrvx2.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Kemeja Katun Lukis (Putih)",
@@ -270,7 +303,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669083/pENJ-33_vplqpb.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669083/pENJ-33_vplqpb.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Kemeja Katun Lukis 01 (Merah)",
@@ -278,7 +312,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-37_ohacte.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-37_ohacte.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Kemeja Katun Lukis 02 (Hitam)",
@@ -286,7 +321,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669083/pENJ-35_e4vil2.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669083/pENJ-35_e4vil2.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Kemeja Katun Lukis 01 (Hitam)",
@@ -294,7 +330,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-36_kisfg2.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-36_kisfg2.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Kemeja Katun Lukis 02 (Merah)",
@@ -302,7 +339,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-38_zkjmww.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669084/pENJ-38_zkjmww.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Oblong Katun Lukis (Hijau)",
@@ -310,7 +348,8 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669259/pENJ-39_x2k9jz.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669259/pENJ-39_x2k9jz.jpg",
+            "weight":300
         },
         {
             "name": "Tunik Krah Oblong Katun Lukis (Kuning)",
@@ -318,9 +357,11 @@
             "amount": 350000,
             "discount": 13,
             "normal_amount": 400000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669262/pENJ-40_yhhvs4.jpg"
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1626669262/pENJ-40_yhhvs4.jpg",
+            "weight":300
         }
     ],
     "customer_paying_fee": false,
-    "expired": ""
+    "expired": "",
+    "origin": "262"
 }
