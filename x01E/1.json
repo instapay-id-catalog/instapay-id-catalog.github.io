@@ -160,16 +160,16 @@
             "discount": 7,
             "normal_amount": 145000,
             "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803435/x01E_06_mtnbxz.jpg",
-            "weight":250
+            "weight":500
         },
         {
-            "name": "Donat Kampoeng x6",
-            "description": "Donat Kampoeng x6",
-            "amount": 48000,
+            "name": "Donat Kampoeng",
+            "description": "Donat Kampoeng",
+            "amount": 8000,
             "discount": 11,
-            "normal_amount": 54000,
+            "normal_amount": 9000,
             "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803443/x01E_07_uwsmek.jpg",
-            "weight":250
+            "weight":100
         }
     ],
     "customer_paying_fee": true,

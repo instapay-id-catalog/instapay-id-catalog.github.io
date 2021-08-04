@@ -6,7 +6,8 @@
             "amount": 50000,
             "discount": 29,
             "normal_amount": 100000,
-            "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG",
+            "weight": 100
         },
         {
             "name": "Product 2",
@@ -14,9 +15,20 @@
             "amount": 30000,
             "discount": 19,
             "normal_amount": 90000,
-            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448"
+            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448",
+            "weight": 100
+        },
+        {
+            "name": "Product 3",
+            "description": "Lorem ipsum Testing Lorem ipsum Lorem ipsum Lorem ipsum",
+            "amount": 1000,
+            "discount": 0,
+            "normal_amount": 1000,
+            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448",
+            "weight": 50
         }
     ],
     "customer_paying_fee": true,
-    "expired": "2021-06-20 21:00:00"
+    "expired": "2021-06-20 21:00:00",
+    "origin": "3915"
 }
