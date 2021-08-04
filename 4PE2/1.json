@@ -3,20 +3,23 @@
         {
             "name": "Hand Bag",
             "description": "Beautiful elegance and luxury fashion pink women handbag",
-            "amount": 1800000,
-            "discount": 10,
-            "normal_amount": 2000000,
-            "image": "https://image.freepik.com/free-photo/beautiful-elegance-luxury-fashion-pink-women-handbag_1203-7653.jpg"
+            "amount": 1000,
+            "discount": 0,
+            "normal_amount": 1000,
+            "image": "https://image.freepik.com/free-photo/beautiful-elegance-luxury-fashion-pink-women-handbag_1203-7653.jpg",
+            "weight": 50
         },
         {
             "name": "School Bag",
             "description": "Blue schoolchild backpack on table",
-            "amount": 850000,
-            "discount": 15,
-            "normal_amount": 1000000,
-            "image": "https://image.freepik.com/free-photo/blue-schoolchild-backpack-table_23-2148204808.jpg"
+            "amount": 500,
+            "discount": 0,
+            "normal_amount": 500,
+            "image": "https://image.freepik.com/free-photo/blue-schoolchild-backpack-table_23-2148204808.jpg",
+            "weight": 50
         }
     ],
     "customer_paying_fee": true,
-    "expired": "2021-08-20 21:00:00"
+    "expired": "2021-08-20 21:00:00",
+    "origin":"3915"
 }
