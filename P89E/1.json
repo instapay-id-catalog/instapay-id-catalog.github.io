@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "name": "Beby Jaffa Super",
+            "description": "Beby Jaffa Super",
+            "amount": 9000,
+            "discount": 0,
+            "normal_amount": 9000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315695/instapay-catalog/P89E/1/WhatsApp_Image_2021-08-07_at_12.51.09_toe1cu.jpg",
+            "weight": 150
+        },
+        {
+            "name": "Siam Madu AB",
+            "description": "Siam Madu AB",
+            "amount": 13000,
+            "discount": 0,
+            "normal_amount": 13000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315698/instapay-catalog/P89E/1/WhatsApp_Image_2021-08-07_at_12.51.28_cyr4jj.jpg",
+            "weight": 145
+        },
+        {
+            "name": "Keprok Batu 55 Super",
+            "description": "Keprok Batu 55 Super",
+            "amount": 13000,
+            "discount": 0,
+            "normal_amount": 13000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315695/instapay-catalog/P89E/1/WhatsApp_Image_2021-08-07_at_12.53.12_kdfvzd.jpg",
+            "weight": 130
+        },
+        {
+            "name": "Siam Madu Premium",
+            "description": "Siam Madu Premium",
+            "amount": 17000,
+            "discount": 0,
+            "normal_amount": 17000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315689/instapay-catalog/P89E/1/WhatsApp_Image_2021-08-07_at_12.53.28_v5mob0.jpg",
+            "weight": 165
+        },
+        {
+            "name": "Beby Jaffa Premium",
+            "description": "Beby Jaffa Premium",
+            "amount": 11000,
+            "discount": 0,
+            "normal_amount": 11000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315693/instapay-catalog/P89E/1/WhatsApp_Image_2021-08-07_at_12.53.43_mxehdy.jpg",
+            "weight": 200
+        },
+        {
+            "name": "Keprok Batu 55 Super",
+            "description": "Keprok Batu 55 Super",
+            "amount": 15000,
+            "discount": 0,
+            "normal_amount": 15000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315686/instapay-catalog/P89E/1/WhatsApp_Image_2021-08-07_at_12.53.58_wk8sec.jpg",
+            "weight": 165
+        }
+    ],
+    "customer_paying_fee": true,
+    "origin":"3605"
+}
