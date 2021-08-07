@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "SOJU ! Alcohol Free (Halal) 3 pcs ",
+            "description": "SOJU ! Alcohol Free (Halal) 3 pcs ",
+            "amount": 90000,
+            "discount": 0,
+            "normal_amount": 90000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315099/instapay-catalog/2Q2L/1/WhatsApp_Image_2021-08-06_at_15.32.28_yx0oog.jpg",
+            "weight": 1500
+        },
+        {
+            "name": "SOJU ! Alcohol Free ( Halal ) 1 pcs",
+            "description": "SOJU ! Alcohol Free ( Halal ) 1 pcs",
+            "amount": 45000,
+            "discount": 0,
+            "normal_amount": 45000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628315099/instapay-catalog/2Q2L/1/WhatsApp_Image_2021-08-06_at_15.33.13_knjj22.jpg",
+            "weight": 500
+        }
+    ],
+    "customer_paying_fee": false,
+    "origin":"6311"
+}
