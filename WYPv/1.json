@@ -6,7 +6,7 @@
             "amount": 450000,
             "discount": 59,
             "normal_amount": 1100000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625113397/WYPv_01_z30ncl.jpg"
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479310/instapay-catalog/WYPv/1/WYPv_01_z30ncl_hk62nw.jpg"
         },
         {
             "name": "2 Bedroom Private Pool Villa + BF",
@@ -14,7 +14,7 @@
             "amount": 750000,
             "discount": 53,
             "normal_amount": 1600000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625113397/WYPv_02_exntsv.jpg"
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479311/instapay-catalog/WYPv/1/WYPv_02_exntsv_pgulpz.jpg"
         }
     ],
     "customer_paying_fee": true,

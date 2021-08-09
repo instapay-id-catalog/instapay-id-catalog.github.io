@@ -6,7 +6,7 @@
             "amount": 55000,
             "discount": 15,
             "normal_amount": 65000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479326/instapay-catalog/x01E/1/x01E_10_h1eiaq_fzcifn.jpg",
             "weight": 250
         },
         {
@@ -15,7 +15,7 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_04_amxwim_q37yol.jpg",
             "weight": 250
         },
         {
@@ -24,7 +24,7 @@
             "amount": 50000,
             "discount": 17,
             "normal_amount": 60000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479323/instapay-catalog/x01E/1/x01E_02_blc8xs_rpkur4.jpg",
             "weight": 250
         },
         {
@@ -33,7 +33,7 @@
             "amount": 40000,
             "discount": 20,
             "normal_amount": 50000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_05_zu4rsm.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_05_zu4rsm_oknglj.jpg",
             "weight": 250
         },
         {
@@ -42,7 +42,7 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479326/instapay-catalog/x01E/1/x01E_10_h1eiaq_fzcifn.jpg",
             "weight": 350
         },
         {
@@ -51,7 +51,7 @@
             "amount": 80000,
             "discount": 11,
             "normal_amount": 90000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_04_amxwim_q37yol.jpg",
             "weight":350
         },
         {
@@ -60,7 +60,7 @@
             "amount": 60000,
             "discount": 14,
             "normal_amount": 70000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479323/instapay-catalog/x01E/1/x01E_02_blc8xs_rpkur4.jpg",
             "weight":350
         },
         {
@@ -69,7 +69,7 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_03_iy3rr6.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_03_iy3rr6_jzxkbb.jpg",
             "weight":350
         },
         {
@@ -78,7 +78,7 @@
             "amount": 99000,
             "discount": 10,
             "normal_amount": 110000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803440/x01E_10_h1eiaq.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479326/instapay-catalog/x01E/1/x01E_10_h1eiaq_fzcifn.jpg",
             "weight":500
         },
         {
@@ -87,7 +87,7 @@
             "amount": 119000,
             "discount": 8,
             "normal_amount": 130000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_04_amxwim.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_04_amxwim_q37yol.jpg",
             "weight":500
         },
         {
@@ -96,7 +96,7 @@
             "amount": 89000,
             "discount": 11,
             "normal_amount": 100000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_02_blc8xs.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479323/instapay-catalog/x01E/1/x01E_02_blc8xs_rpkur4.jpg",
             "weight":500
         },
         {
@@ -105,7 +105,7 @@
             "amount": 89000,
             "discount": 11,
             "normal_amount": 100000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_03_iy3rr6.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_03_iy3rr6_jzxkbb.jpg",
             "weight":500
         },
         {
@@ -114,7 +114,7 @@
             "amount": 65000,
             "discount": 13,
             "normal_amount": 75000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_01_j8witq_w0r0be.jpg",
             "weight":500
         },
         {
@@ -123,7 +123,7 @@
             "amount": 55000,
             "discount": 15,
             "normal_amount": 65000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_01_j8witq_w0r0be.jpg",
             "weight":500
         },
         {
@@ -132,7 +132,7 @@
             "amount": 50000,
             "discount": 17,
             "normal_amount": 60000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803434/x01E_01_j8witq.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_01_j8witq_w0r0be.jpg",
             "weight":500
         },
         {
@@ -141,7 +141,7 @@
             "amount": 20000,
             "discount": 33,
             "normal_amount": 30000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803437/x01E_08_ivblww.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479325/instapay-catalog/x01E/1/x01E_08_ivblww_in6ior.jpg",
             "weight":100
         },
         {
@@ -150,7 +150,7 @@
             "amount": 25000,
             "discount": 29,
             "normal_amount": 35000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803436/x01E_09_c0rron.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479325/instapay-catalog/x01E/1/x01E_09_c0rron_j70lgg.jpg",
             "weight":100
         },
         {
@@ -159,7 +159,7 @@
             "amount": 135000,
             "discount": 7,
             "normal_amount": 145000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803435/x01E_06_mtnbxz.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479324/instapay-catalog/x01E/1/x01E_06_mtnbxz_wxdbyc.jpg",
             "weight":500
         },
         {
@@ -168,7 +168,7 @@
             "amount": 8000,
             "discount": 11,
             "normal_amount": 9000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625803443/x01E_07_uwsmek.jpg",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479325/instapay-catalog/x01E/1/x01E_07_uwsmek_wbia5m.jpg",
             "weight":100
         }
     ],
