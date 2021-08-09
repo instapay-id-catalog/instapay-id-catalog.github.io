@@ -6,7 +6,7 @@
             "amount": 1500000,
             "discount": 50,
             "normal_amount": 3000000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625233395/6Ged_01_fc0pj7.jpg"
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479187/instapay-catalog/6Ged/2/6Ged_01_fc0pj7_wqwco2.jpg"
         },
         {
             "name": "Digital Marketing 1",
@@ -14,7 +14,7 @@
             "amount": 500000,
             "discount": 50,
             "normal_amount": 1000000,
-            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625233395/6Ged_01_fc0pj7.jpg"
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628479187/instapay-catalog/6Ged/2/6Ged_01_fc0pj7_wqwco2.jpg"
         }
     ],
     "customer_paying_fee": false,
