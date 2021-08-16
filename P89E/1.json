@@ -56,5 +56,7 @@
         }
     ],
     "customer_paying_fee": true,
-    "origin":"3605"
+    "origin":"3605",
+    "support_delivery": true,
+    "type":"product"
 }

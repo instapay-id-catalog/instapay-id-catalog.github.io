@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "name": "Beef Slice Bulgogi",
+            "description": "Beef Slice Bulgogi",
+            "amount": 45000,
+            "discount": 0,
+            "normal_amount": 45000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628848361/instapay-catalog/KNgN/beef_sliced_bulgogi_hniu39.jpg",
+            "weight": 250
+        },
+        {
+            "name": "Beef Slice Blackpepper",
+            "description": "Beef Slice Blackpepper",
+            "amount": 45000,
+            "discount": 0,
+            "normal_amount": 45000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628848361/instapay-catalog/KNgN/beef_sliced_blackpepper_nrbpx5.jpg",
+            "weight": 250
+        },
+        {
+            "name": "Beef Slice Teriyaki",
+            "description": "Beef Slice Teriyaki",
+            "amount": 45000,
+            "discount": 0,
+            "normal_amount": 45000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628848361/instapay-catalog/KNgN/beed_sliced_teriyaki_ghxopo.jpg",
+            "weight": 250
+        },
+        {
+            "name": "Beef Slice Galbi (Korean Sauce)",
+            "description": "Beef Slice Galbi (Korean Sauce)",
+            "amount": 45000,
+            "discount": 0,
+            "normal_amount": 45000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628848362/instapay-catalog/KNgN/beef_sliced_galbi_ukiegs.jpg",
+            "weight": 250
+        },
+        {
+            "name": "Beef Slice Original",
+            "description": "Beef Slice Original",
+            "amount": 75000,
+            "discount": 0,
+            "normal_amount": 75000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1628848361/instapay-catalog/KNgN/beef_sliced_original_qzcvci.jpg",
+            "weight": 500
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "1587",
+    "support_delivery": true,
+    "type": "product"
+}
