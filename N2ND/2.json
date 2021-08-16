@@ -66,5 +66,7 @@
     ],
     "customer_paying_fee": true,
     "expired": "2021-08-31 23:59:59",
-    "origin": 6314
+    "origin": 6314,
+    "support_delivery": true,
+    "type":"product"
 }

@@ -20,5 +20,7 @@
         }
     ],
     "customer_paying_fee": false,
-    "origin":"6311"
+    "origin":"6311",
+    "support_delivery": true,
+    "type":"product"
 }
