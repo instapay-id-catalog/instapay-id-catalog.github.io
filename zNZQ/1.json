@@ -7,7 +7,7 @@
             "discount": 0,
             "normal_amount": 60900,
             "image": "https://res.cloudinary.com/mc-payment/image/upload/v1629263394/instapay-catalog/zNZQ/1/zNZQ-sajadah_sh7hcr.jpg",
-            "weight": 500
+            "weight": 400
         },
         {
             "name": "Hampers Wedding Selimut Motif",
@@ -16,7 +16,7 @@
             "discount": 0,
             "normal_amount": 69900,
             "image": "https://res.cloudinary.com/mc-payment/image/upload/v1629263394/instapay-catalog/zNZQ/1/zNZQ-selimut_lm0y8f.jpg",
-            "weight": 500
+            "weight": 400
         }
     ],
     "customer_paying_fee": true,
