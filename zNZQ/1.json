@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "name": "Hampers Sajadah Couple by Terry Palmer",
+            "description": "Hampers Sajadah Couple by Terry Palmer",
+            "amount": 60900,
+            "discount": 0,
+            "normal_amount": 60900,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1629263394/instapay-catalog/zNZQ/1/zNZQ-sajadah_sh7hcr.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Hampers Wedding Selimut Motif",
+            "description": "Hampers Wedding Selimut Motif",
+            "amount": 69900,
+            "discount": 0,
+            "normal_amount": 69900,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1629263394/instapay-catalog/zNZQ/1/zNZQ-selimut_lm0y8f.jpg",
+            "weight": 500
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "5643",
+    "support_delivery": true,
+    "type": "product"
+}
