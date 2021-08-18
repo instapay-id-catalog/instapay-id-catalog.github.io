@@ -83,6 +83,6 @@
     ],
     "customer_paying_fee": false,
     "expired": "2021-09-05 23:00:00",
-    "support_delivery": true,
-    "type":"product"
+    "support_delivery": false,
+    "type": "service"
 }
