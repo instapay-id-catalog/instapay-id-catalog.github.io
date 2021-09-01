@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "name": "Open Trip Dieng start Jakarta",
+	    "description":  "Open Trip Dieng start Jakarta",,
+            "amount": 630000,
+            "discount": 0,
+            "normal_amount": 630000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1630470220/instapay-catalog/3Wee/1/explore_dieng_yitevx.jpg",
+            "weight": 0
+        },
+        {
+            "name":"Open Trip Prau start Jakarta",
+            "description":"Open Trip Prau start Jakarta",
+            "amount": 550000,
+            "discount": 0,
+            "normal_amount": 550000,
+            "image":"https://res.cloudinary.com/mc-payment/image/upload/v1630470221/instapay-catalog/3Wee/1/mahaprau_ydvjkx.jpg",
+            "weight": 0
+        },
+        {
+            "name":"Open Trip Dieng start Dieng",
+            "description":"Open Trip Dieng start Dieng",
+            "amount": 400000,
+            "discount": 0,
+            "normal_amount": 400000,
+            "image":"https://res.cloudinary.com/mc-payment/image/upload/v1630470220/instapay-catalog/3Wee/1/explore_dieng_yitevx.jpg",
+            "weight": 0
+        },
+        {
+            "name":"Open Trip Prau start Dieng",
+	    "description":"Open Trip Prau start Dieng",
+            "amount": 300000,
+            "discount": 0,
+            "normal_amount": 300000,
+            "image":"https://res.cloudinary.com/mc-payment/image/upload/v1630470221/instapay-catalog/3Wee/1/mahaprau_ydvjkx.jpg",
+            "weight": 0
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "",
+    "support_delivery": false,
+    "type": "service"
+}
