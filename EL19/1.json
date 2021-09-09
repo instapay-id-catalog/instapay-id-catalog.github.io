@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "name": "Peduli Dhuafa 20K",
+      "description": "Peduli Dhuafa 20K",
+      "amount": 20000,
+      "discount": 0,
+      "normal_amount": 20000,
+      "image": "https://res.cloudinary.com/mc-payment/image/upload/v1631171079/instapay-catalog/EL19/1/peduli_dhuafa_af0v7y.jpg",
+      "weight": 0
+    },
+    {
+      "name": "Peduali Dhuafa 50K",
+      "description": "Peduali Dhuafa 50K",
+      "amount": 50000,
+      "discount": 0,
+      "normal_amount": 50000,
+      "image": "https://res.cloudinary.com/mc-payment/image/upload/v1631171079/instapay-catalog/EL19/1/peduli_dhuafa_af0v7y.jpg",
+      "weight": 0
+    },
+    {
+      "name": "Peduli Guru 20K",
+      "description": "Peduli Guru 20K",
+      "amount": 20000,
+      "discount": 0,
+      "normal_amount": 20000,
+      "image": "https://res.cloudinary.com/mc-payment/image/upload/v1631171079/instapay-catalog/EL19/1/peduli_guru_f7rqub.jpg",
+      "weight": 0
+    },
+    {
+      "name": "Peduli Guru 50K",
+      "description": "Peduli Guru 50K",
+      "amount": 50000,
+      "discount": 0,
+      "normal_amount": 50000,
+      "image": "https://res.cloudinary.com/mc-payment/image/upload/v1631171079/instapay-catalog/EL19/1/peduli_guru_f7rqub.jpg",
+      "weight": 0
+    }
+  ],
+  "customer_paying_fee": true,
+  "expired": "2021-12-30 13:00:00",
+  "origin": "",
+  "support_delivery": false,
+  "type": "service"
+}
