@@ -1,0 +1,99 @@
+{
+    "data": [
+        {
+            "name": "Soju ORI",
+            "description": "Soju ORI",
+            "amount": 100000,
+            "discount": 0,
+            "normal_amount": 100000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425371/instapay-catalog/Oovb/1/soju_ori_zdkb2r.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Amer Gold",
+            "description": "Amer Gold",
+            "amount": 95000,
+            "discount": 0,
+            "normal_amount": 95000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425370/instapay-catalog/Oovb/1/amer_gold_tnpe58.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Heineken",
+            "description": "Heineken",
+            "amount": 35000,
+            "discount": 0,
+            "normal_amount": 35000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425370/instapay-catalog/Oovb/1/heineken_ckwbke.jpg",
+            "weight": 500
+        },
+        {
+            "name": "B.Radler lemon",
+            "description": "B.Radler lemon",
+            "amount": 25000,
+            "discount": 0,
+            "normal_amount": 25000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425371/instapay-catalog/Oovb/1/radler_bfvg98.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Prost",
+            "description": "Prost",
+            "amount": 25000,
+            "discount": 0,
+            "normal_amount": 25000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425371/instapay-catalog/Oovb/1/prost_jrlswe.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Konig Ludwig",
+            "description": "Konig Ludwig",
+            "amount": 40000,
+            "discount": 0,
+            "normal_amount": 40000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425370/instapay-catalog/Oovb/1/konigludwig_mdeblr.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Amer Pint",
+            "description": "Amer Pint",
+            "amount": 40000,
+            "discount": 0,
+            "normal_amount": 40000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632456455/instapay-catalog/Oovb/1/amerpint_mx2kag.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Bintang Pint",
+            "description": "Bintang Pint",
+            "amount": 27000,
+            "discount": 0,
+            "normal_amount": 27000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425370/instapay-catalog/Oovb/1/bintangpint_ghs5fb.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Amer Kawa-Kawa",
+            "description": "Amer Kawa-Kawa",
+            "amount": 87000,
+            "discount": 0,
+            "normal_amount": 87000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425370/instapay-catalog/Oovb/1/kawa_uwxlz1.jpg",
+            "weight": 500
+        },
+        {
+            "name": "keripik singkong",
+            "description": "keripik singkong",
+            "amount": 7000,
+            "discount": 0,
+            "normal_amount": 7000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1632425371/instapay-catalog/Oovb/1/keripik_ucanbk.jpg",
+            "weight": 110
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "6284",
+    "support_delivery": true,
+    "type": "product"
+}
