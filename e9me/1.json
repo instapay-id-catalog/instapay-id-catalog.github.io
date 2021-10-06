@@ -1,12 +1,30 @@
 {
     "data": [
         {
+            "name": "Bear",
+            "description": "Bear",
+            "amount": 55000,
+            "discount": 0,
+            "normal_amount": 80000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505606/instapay-catalog/e9me/bear_duyyek.jpg",
+            "weight": 200
+        },
+        {
+            "name": "Tokyo Leader",
+            "description": "Tokyo Leader",
+            "amount": 55000,
+            "discount": 0,
+            "normal_amount": 80000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505607/instapay-catalog/e9me/tokyo_fmf1y6.jpg",
+            "weight": 200
+        },
+        {
             "name": "Akuma Demon",
             "description": "Akuma Demon",
             "amount": 55000,
             "discount": 0,
             "normal_amount": 80000,
-            "image": "",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505606/instapay-catalog/e9me/akuma_koyndd.jpg",
             "weight": 200
         },
         {
@@ -15,7 +33,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 80000,
-            "image": "",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505607/instapay-catalog/e9me/tiger_lar4p8.jpg",
             "weight": 200
         },
         {
@@ -24,7 +42,7 @@
             "amount": 55000,
             "discount": 0,
             "normal_amount": 80000,
-            "image": "",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505607/instapay-catalog/e9me/skull_o0zjvf.jpg",
             "weight": 200
         },
         {
@@ -33,7 +51,7 @@
             "amount": 85000,
             "discount": 0,
             "normal_amount": 62000,
-            "image": "",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505607/instapay-catalog/e9me/ready_yogctq.jpg",
             "weight": 200
         },
         {
@@ -42,7 +60,7 @@
             "amount": 80000,
             "discount": 0,
             "normal_amount": 55000,
-            "image": "",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505606/instapay-catalog/e9me/aesthetic_mvjs0v.jpg",
             "weight": 200
         },
         {
@@ -51,7 +69,7 @@
             "amount": 90000,
             "discount": 0,
             "normal_amount": 79000,
-            "image": "",
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1633505606/instapay-catalog/e9me/girl_ymmmr6.jpg",
             "weight": 200
         }
     ],
