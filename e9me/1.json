@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "name": "Akuma Demon",
+            "description": "Akuma Demon",
+            "amount": 55000,
+            "discount": 0,
+            "normal_amount": 80000,
+            "image": "",
+            "weight": 200
+        },
+        {
+            "name": "Tiger Tokyo",
+            "description": "Tiger Tokyo",
+            "amount": 55000,
+            "discount": 0,
+            "normal_amount": 80000,
+            "image": "",
+            "weight": 200
+        },
+        {
+            "name": "Skull",
+            "description": "Skull",
+            "amount": 55000,
+            "discount": 0,
+            "normal_amount": 80000,
+            "image": "",
+            "weight": 200
+        },
+        {
+            "name": "Ready",
+            "description": "Ready",
+            "amount": 85000,
+            "discount": 0,
+            "normal_amount": 62000,
+            "image": "",
+            "weight": 200
+        },
+        {
+            "name": "Aesthetic",
+            "description": "Aesthetic",
+            "amount": 80000,
+            "discount": 0,
+            "normal_amount": 55000,
+            "image": "",
+            "weight": 200
+        },
+        {
+            "name": "Girl Power Oversized",
+            "description": "Girl Power Oversized",
+            "amount": 90000,
+            "discount": 0,
+            "normal_amount": 79000,
+            "image": "",
+            "weight": 200
+        }
+    ],
+    "customer_paying_fee": false,
+    "expired": "",
+    "origin": "6143",
+    "support_delivery": true,
+    "type": "product"
+}
