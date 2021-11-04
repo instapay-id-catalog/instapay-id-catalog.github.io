@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "name": "Multifunctional Laser Therapeutic (MLT)",
+            "description": "Multifunctional Laser Therapeutic (MLT)",
+            "amount": 7500000,
+            "discount": 0,
+            "normal_amount": 7500000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1636020618/instapay-catalog/ELpM/MLT_m7henl.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Portable Magic Device",
+            "description": "Portable Magic Device",
+            "amount": 8600000,
+            "discount": 0,
+            "normal_amount": 8600000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1636020619/instapay-catalog/ELpM/portable-magic-dervice_q9vqh0.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Selendang Energi Fohoway",
+            "description": "Selendang Energi Fohoway",
+            "amount": 3500000,
+            "discount": 0,
+            "normal_amount": 3500000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1636020619/instapay-catalog/ELpM/selendang-energy-fohoway_kqcexu.jpg",
+            "weight": 500
+        },{
+            "name": "Bantal Inframerah Jauh",
+            "description": "Bantal Inframerah Jauh",
+            "amount": 3500000,
+            "discount": 0,
+            "normal_amount": 3500000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1636020618/instapay-catalog/ELpM/bantal-inframerah-jauh_udjxjp.jpg",
+            "weight": 500
+        },
+        {
+            "name": "Selimut Inframerah Jauh",
+            "description": "Selimut Inframerah Jauh",
+            "amount": 13500000,
+            "discount": 0,
+            "normal_amount": 13500000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1636020619/instapay-catalog/ELpM/selimut-inframerah-jauh_zqauk7.jpg",
+            "weight": 500
+        }
+
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "5504",
+    "support_delivery": true,
+    "type":"product"
+}
