@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "name": "Garena Shell",
+            "description": "Garena Shell",
+            "amount": 20500,
+            "discount": 0,
+            "normal_amount": 20500,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1638326408/instapay-catalog/N2GQ/garena_h0k4rc.jpg",
+            "weight": 0
+        },
+        {
+            "name": "Unipin Voucher",
+            "description": "Unipin Voucher",
+            "amount": 20000,
+            "discount": 0,
+            "normal_amount": 20000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1638326408/instapay-catalog/N2GQ/unipin_boufgl.jpg",
+            "weight": 0
+        },
+        {
+            "name": "Razer Gold",
+            "description": "Razer Gold",
+            "amount": 20000,
+            "discount": 0,
+            "normal_amount": 20000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1638326408/instapay-catalog/N2GQ/gold_o4hk8h.jpg ",
+            "weight": 0
+        },{
+            "name": "Google Play Card",
+            "description": "Google Play Card",
+            "amount": 20500,
+            "discount": 0,
+            "normal_amount": 20500,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1638326408/instapay-catalog/N2GQ/google_d8pggq.jpg",
+            "weight": 0
+        }
+
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "",
+    "support_delivery": false,
+    "type":"service"
+}
