@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "name": "Dress Wanita",
+            "description": "Dress Wanita",
+            "amount": 50000,
+            "discount": 0,
+            "normal_amount": 50000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642136735/instapay-catalog/rMb9/dress_cvw7aw.jpg",
+            "weight": 1
+        },
+        {
+            "name": "Atasan Jeans Wanita",
+            "description": "Atasan Jeans Wanita",
+            "amount": 150000,
+            "discount": 0,
+            "normal_amount": 150000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642136735/instapay-catalog/rMb9/jeans_kgy7mk.jpg",
+            "weight": 1
+        },
+        {
+            "name": "Dress Wanita",
+            "description": "Dress Wanita",
+            "amount": 50000,
+            "discount": 0,
+            "normal_amount": 50000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642136735/instapay-catalog/rMb9/dress-1_v2lhmf.jpg",
+            "weight": 1
+        },
+        {
+            "name": "Atasan Jeans Wanita",
+            "description": "Atasan Jeans Wanita",
+            "amount": 150000,
+            "discount": 0,
+            "normal_amount": 150000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642136735/instapay-catalog/rMb9/jeans-1_igmj1l.jpg",
+            "weight": 1
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "260",
+    "support_delivery": false,
+    "type":"product"
+}
