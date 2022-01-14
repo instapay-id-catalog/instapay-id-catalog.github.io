@@ -47,7 +47,7 @@
         }
     ],
     "customer_paying_fee": true,
-    "expired": "2099-09-09 23:00:00",
+    "expired": "",
     "origin": "260",
     "support_delivery": false,
     "type":"service"
