@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "name": "ayla/agya 2020 manual/matic/ hari lepas kunci",
+            "description": "ayla/agya 2020 manual/matic/ hari lepas kunci",
+            "amount": 250000,
+            "discount": 0,
+            "normal_amount": 250000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642135627/instapay-catalog/zNBN/ayla_rko6jt.jpg",
+            "weight": 1
+        },
+        {
+            "name": "avanza/xenia 2020/ hari lepas kunci",
+            "description": "avanza/xenia 2020/ hari lepas kunci",
+            "amount": 350000,
+            "discount": 0,
+            "normal_amount": 350000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642135627/instapay-catalog/zNBN/avanza_lxovbr.jpg",
+            "weight": 1
+        },
+        {
+            "name": "innova 2020/ hari lepas kunci",
+            "description": "innova 2020/ hari lepas kunci",
+            "amount": 650000,
+            "discount": 0,
+            "normal_amount": 650000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642135627/instapay-catalog/zNBN/innova_rjvgc4.jpg",
+            "weight": 1
+        },
+        {
+            "name": "alphard 2020/ hari dgn supir dan bbm(10 jam)",
+            "description": "alphard 2020/ hari dgn supir dan bbm(10 jam)",
+            "amount": 2500000,
+            "discount": 0,
+            "normal_amount": 2500000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642135627/instapay-catalog/zNBN/alphard_jnj8wp.jpg",
+            "weight": 1
+        },
+        {
+            "name": "Mercedes Benz S class 2020/ hari dgn supir + bbm",
+            "description": "Mercedes Benz S class 2020/ hari dgn supir + bbm",
+            "amount": 25000000,
+            "discount": 0,
+            "normal_amount": 25000000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642135627/instapay-catalog/zNBN/mercedez_s5m5dt.jpg",
+            "weight": 1
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "2099-09-09 23:00:00",
+    "origin": "260",
+    "support_delivery": false,
+    "type":"service"
+}
