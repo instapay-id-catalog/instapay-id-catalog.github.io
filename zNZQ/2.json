@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "name": "Hampers Wedding Sajadah Couple",
+            "description": "Hampers Wedding Sajadah Couple",
+            "amount": 60900,
+            "discount": 0,
+            "normal_amount": 60900,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642473397/instapay-catalog/zNZQ/1/Hampers_Wedding_Sajadah_Couple_achbgq.jpg",
+            "weight": 400
+        },
+        {
+            "name": "Hampers Wedding Handuk Microfiber by Raisha Palmer",
+            "description": "Hampers Wedding Handuk Microfiber by Raisha Palmer",
+            "amount": 90900,
+            "discount": 0,
+            "normal_amount": 90900,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1642473396/instapay-catalog/zNZQ/1/Hampers_Wedding_Handuk_Microfiber_by_Raisha_Palmer_x6yime.jpg",
+            "weight": 400
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "5643",
+    "support_delivery": true,
+    "type": "product"
+}
