@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "name": "Paket servis + touring = Transmisi",
+            "description": "Paket servis + touring = Transmisi",
+            "amount": 1050000,
+            "discount": 0,
+            "normal_amount": 1050000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1643338084/instapay-catalog/2kbn/transmisi_vgafc7.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Paket servis + touring TimingBelt + Tensioner",
+            "description": "Paket servis + touring TimingBelt + Tensioner",
+            "amount": 1600000,
+            "discount": 0,
+            "normal_amount": 1600000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1643338083/instapay-catalog/2kbn/belt_b456ne.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Transmisi",
+            "description": "Transmisi",
+            "amount": 1300000,
+            "discount": 0,
+            "normal_amount": 1300000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1643338084/instapay-catalog/2kbn/transmisi_vgafc7.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "TimingBelt + Tensioner",
+            "description": "TimingBelt + Tensioner",
+            "amount": 1850000,
+            "discount": 0,
+            "normal_amount": 1850000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1643338083/instapay-catalog/2kbn/belt_b456ne.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Oli transmisi Motul 2 liter",
+            "description": "Oli transmisi Motul 2 liter",
+            "amount": 450000,
+            "discount": 0,
+            "normal_amount": 450000,
+            "image": "",
+            "weight":1000
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "2099-09-09 23:00:00",
+    "origin": "",
+    "support_delivery": false,
+    "type":"product"
+}
