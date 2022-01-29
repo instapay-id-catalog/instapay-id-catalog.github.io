@@ -44,6 +44,24 @@
             "normal_amount": 450000,
             "image": "",
             "weight":1000
+        },
+        {
+            "name": "Paket Touring Kemping + Hotel",
+            "description": "Paket Touring Kemping + Hotel",
+            "amount": 1350000,
+            "discount": 0,
+            "normal_amount": 1350000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1643423067/instapay-catalog/2kbn/touring_owpjpa.jpg",
+            "weight":1000
+        },
+        {
+            "name": "Paket Touring Hotel 2 malam",
+            "description": "Paket Touring Hotel 2 malam",
+            "amount": 1650000,
+            "discount": 0,
+            "normal_amount": 1650000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1643423067/instapay-catalog/2kbn/touring_owpjpa.jpg",
+            "weight":1000
         }
     ],
     "customer_paying_fee": true,
