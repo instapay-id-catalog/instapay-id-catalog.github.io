@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "Mini Basketball",
+            "description": "Mini Basketball",
+            "amount": 300000,
+            "discount": 0,
+            "normal_amount": 300000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1644979811/instapay-catalog/aJEg/cultured-basketball-academy_mkockp.jpg",
+            "weight": 1
+        },
+        {
+            "name": "Basic Class",
+            "description": "Basic Class",
+            "amount": 800000,
+            "discount": 0,
+            "normal_amount": 800000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1644979811/instapay-catalog/aJEg/cultured-basketball-academy_mkockp.jpg",
+            "weight": 1
+        },
+        {
+            "name": "Development Class",
+            "description": "Development Class",
+            "amount": 2000000,
+            "discount": 0,
+            "normal_amount": 2000000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1644979811/instapay-catalog/aJEg/cultured-basketball-academy_mkockp.jpg",
+            "weight": 1
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "origin": "",
+    "support_delivery": false,
+    "type":"service"
+}
