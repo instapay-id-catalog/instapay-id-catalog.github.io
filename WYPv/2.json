@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "name": "Sprite",
+            "description": "Sprite",
+            "amount": 8000,
+            "discount": 20,
+            "normal_amount": 10000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1647245026/instapay-catalog/WYPv/2/sprite_ey2jdj.jpg"
+        },
+        {
+            "name": "Fanta",
+            "description": "Fanta",
+            "amount": 10000,
+            "discount": 33,
+            "normal_amount": 12000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1647245026/instapay-catalog/WYPv/2/fanta_sdoc5p.jpg"
+        },
+        {
+            "name": "Coca Cola",
+            "description": "Coca Cola",
+            "amount": 12000,
+            "discount": 20,
+            "normal_amount": 15000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1647245026/instapay-catalog/WYPv/2/coca-cola_qwxz4g.jpg"
+        },
+        {
+            "name": "Teh Pucuk",
+            "description": "Teh Pucuk",
+            "amount": 5000,
+            "discount": 17,
+            "normal_amount": 6000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1647245025/instapay-catalog/WYPv/2/teh-pucuk_nz4iqj.jpg"
+        },
+        {
+            "name": "Teh Sosro",
+            "description": "Teh Sosro",
+            "amount": 6000,
+            "discount": 25,
+            "normal_amount": 8000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1647245025/instapay-catalog/WYPv/2/teh-sosro_kixtmq.jpg"
+        },
+        {
+            "name": "Kopi Kenangan Mantan",
+            "description": "Kopi Kenangan Mantan",
+            "amount": 15000,
+            "discount": 17,
+            "normal_amount": 18000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1647245026/instapay-catalog/WYPv/2/kenangan-mantan_u0ws9a.jpg"
+        },
+        {
+            "name": "Kopi Kenangan Mantan Coklat",
+            "description": "Kopi Kenangan Mantan Coklat",
+            "amount": 20000,
+            "discount": 20,
+            "normal_amount": 25000,
+            "image": "https://res.cloudinary.com/mc-payment/image/upload/v1647245026/instapay-catalog/WYPv/2/kenangan-mantan-coklat_scgjs8.jpg"
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "",
+    "support_delivery": false,
+    "type":"product"
+}
